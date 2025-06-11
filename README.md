@@ -4,5 +4,5 @@
 
 ## Ubuntu 執行
 ```
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/zz22558822/Bitwarden_Install/main/Vaultwarden_Install.sh)"
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/zz22558822/Bitwarden_Install/main/Bitwarden_Install.sh)"
 ```
